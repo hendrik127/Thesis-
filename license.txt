@@ -1,0 +1,23 @@
+License
+• It is not permitted to use any code or part of the codes herein 
+presented in commercial
+and/or military applications.
+• Each code is provided “as-is” without warranty of any kind, including 
+but not
+limited to the implied warranties or conditions of merchantability or 
+fitness for
+a particular purpose. In no events shall the authors of this book be 
+liable for any
+special, incidental, indirect or consequential damages of any kind, or 
+damages
+whatsoever resulting from loss of use, data, or profits, whether or not 
+the authors
+have been advised of the possibility of such damages, and/or on any theory 
+of
+liability arising out of or in connectionwith the use or performance of 
+this software.
+• A reference to this thesis has to be included in an article, chapter or 
+book, where
+any code herein presented has been used.
+
+
